@@ -6,11 +6,13 @@ This repo contains the design files for the crossometer-mini device, an open har
 
 ![crossometer-mini pcb](images/crossometer-mini-pcb.jpg)
 
-Have a look at the [releases](https://github.com/fredszaq/crossometer-mini/releases) page to get the lastest release. Taking a look at open [issues](https://github.com/fredszaq/crossometer-mini/issues) may be a good idea if you intent do build a crossometer-mini for yourself.
+Provided are the Kicad files for the PCB and the Freecad files for the enclosure and clip.
+
+Taking a look at open [issues](https://github.com/fredszaq/crossometer-mini/issues) may be a good idea if you intent do build a crossometer-mini for yourself.
 
 ![crossometer-mini without 3 case](images/naked-crossometer-mini.jpg)
 
-Provided are the Kicad files for the PCB and the Freecad files for the enclosure and clip as well as the exported Gerber (can be used with J@LCPCB) and STL files
+Have a look at the [releases](https://github.com/fredszaq/crossometer-mini/releases) page to get gerber files and STLs.
 
 ![4 crossometer-mini before assembly](images/crossometer-mini-fabrication.jpg)
 
