@@ -16,4 +16,5 @@ Have a look at the [releases](https://github.com/fredszaq/crossometer-mini/relea
 
 ![4 crossometer-mini before assembly](images/crossometer-mini-fabrication.jpg)
 
+crossometer-mini is licenced under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal
 
