@@ -1,8 +1,10 @@
 # crossometer-mini
 
+![crossometer-mini](images/crossometer-mini.jpg)
+
 This repo contains the design files for the crossometer-mini device, an open hardware GPS/altimeter/variometer using the [crossometer-firmware](https://github.com/fredszaq/crossometer-firmware).
 
-![crossometer-mini](images/crossometer-mini.jpg)
+![crossometer-mini pcb](images/crossometer-mini-pcb.jpg)
 
 Have a look at the [releases](https://github.com/fredszaq/crossometer-mini/releases) page to get the lastest release. Taking a look at open [issues](https://github.com/fredszaq/crossometer-mini/issues) may be a good idea if you intent do build a crossometer-mini for yourself.
 
